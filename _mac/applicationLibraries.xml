@@ -23,7 +23,12 @@
         <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/doc/api/jars/scala-swing_2.12-2.0.0-M2-javadoc.jar!/" />
         <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/doc/api/jars/scala-xml_2.12-1.0.6-javadoc.jar!/" />
       </JAVADOC>
-      <SOURCES />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/library" />
+        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/partest-extras" />
+        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/partest-javaagent" />
+        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/repl" />
+      </SOURCES>
     </library>
   </component>
 </application>
