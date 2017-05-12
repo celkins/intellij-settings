@@ -1,34 +1,24 @@
 <application>
   <component name="libraryTable">
-    <library name="scala-sdk-2.12.1" type="Scala">
+    <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
-        <option name="languageLevel" value="Scala_2_12" />
         <compiler-classpath>
-          <root url="file:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-compiler.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-library.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-reflect.jar" />
+          <root url="file://$USER_HOME$/.m2/repository/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar" />
         </compiler-classpath>
       </properties>
       <CLASSES>
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-library.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-parser-combinators_2.12-1.0.4.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-reflect.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-swing_2.12-2.0.0-M2.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/lib/scala-xml_2.12-1.0.6.jar!/" />
+        <root url="jar://$USER_HOME$/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8-sources.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/doc/api/jars/scala-library-2.12.1-javadoc.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/doc/api/jars/scala-parser-combinators_2.12-1.0.4-javadoc.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/doc/api/jars/scala-reflect-2.12.1-javadoc.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/doc/api/jars/scala-swing_2.12-2.0.0-M2-javadoc.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.1/idea/doc/api/jars/scala-xml_2.12-1.0.6-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8-javadoc.jar!/" />
       </JAVADOC>
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/library" />
-        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/partest-extras" />
-        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/partest-javaagent" />
-        <root url="file:///usr/local/Cellar/scala/2.12.1/libexec/src/repl" />
-      </SOURCES>
+      <SOURCES />
     </library>
   </component>
 </application>
